@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=e4Gjjdh\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.url\=jdbc\:postgresql\://sonar.straton-it.net\:5432/sonar?useUnicode\=true&characterEncoding\=utf8\r\nsonar.host.url\=http\://sonar.straton-it.net\:9000
+projectKey=k-store\:k-store
+serverUrl=http\://localhost\:9000
+version=2
